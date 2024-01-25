@@ -1,3 +1,14 @@
 body{
-    background-color: grey;
+    background-color: black;
+    color: goldenrod;
+
+}
+.Home{
+    font-size: large;
+    color: aqua;
+}
+a{
+    color: goldenrod;
+    unicode-range: U+00-7F;
+    text-underline-offset: 10;
 }

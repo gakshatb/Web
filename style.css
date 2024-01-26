@@ -12,3 +12,6 @@ a{
     unicode-range: U+00-7F;
     text-underline-offset: 10;
 }
+nav{
+    display: flex;
+}
